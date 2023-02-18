@@ -2,13 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
- * Description: 'prints n and state is n zero,positive'
+ * Description: prints n and state is n zero,positive
  *
- * Return: Always  0 (Success)
- */
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 {
